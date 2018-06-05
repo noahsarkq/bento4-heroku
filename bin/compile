@@ -18,7 +18,7 @@ cd $VENDOR_DIR
 mkdir -p bento4
 cd bento4
 wget -q $DOWNLOAD_URL
-unzip $FILE.zip
+unzip -qq $FILE.zip
 mv $FILE/bin .
 
 echo "exporting PATH" | indent
