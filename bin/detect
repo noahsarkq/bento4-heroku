@@ -1,5 +1,5 @@
 #!/bin/sh
 
 # this pack is valid for all apps
-echo "bento4"
+echo "mp4info"
 exit 0
